@@ -1,0 +1,178 @@
+Name,Age,Monthly income/ Pocket money,Expense Amount,Expense Category,Payment Method,Was this expense necessary?,Date of Expense,Do you have a monthly budget?,Monthly Budget Limit (₹) (if not put zero),Did you exceed your budget?,How often do you track your expenses?,Your saving goal
+Jenish,20,5000,250,Food,UPI,Yes,02-04-2026,Yes,2500,Yes,Daily,Save more
+Jigeesha Bhattacharyya,21,1000,250,Food,UPI,Yes,11-03-2026,Yes,5000,Yes,Monthly,Save more
+Chauhan Azhar,23,20000,7000,Food,Debit/Credit Card,Yes,01-04-2026,No,15000,No,Daily,Save more
+Kavya,20,8000,150,Food,UPI,Yes,02-04-2026,Yes,7000,Yes,Monthly,Balanced
+Krishna,19,7000,375,Entertainment,Cash,No,03-04-2026,Yes,4000,Yes,Rarely,Balanced
+Punya,20,7500,200,Travel,Cash,Yes,02-04-2026,Yes,5000,Yes,Weekly,Balanced
+Parv,20,5000,100,Food,UPI,Yes,02-04-2026,Yes,1500,Yes,Weekly,Spend freely
+Aarth,21,8000,500,Shopping,UPI,No,31-03-2026,Yes,3000,No,Rarely,Spend freely
+Harmit,21,5000,450,Food,Cash,Yes,27-03-2026,No,1000,Yes,Weekly,Save more
+Harshil,23,10000,800,Food,UPI,No,03-04-2026,Yes,4000,No,Monthly,Save more
+Ajay,21,20000,750,Food,UPI,Yes,03-04-2026,Yes,5000,Yes,Rarely,Spend freely
+Ritesh,25,30000,1500,Shopping,Cash,No,22-03-2026,Yes,7500,No,Weekly,Spend freely
+Dhruv Som,19,3000,100,Food,UPI,No,                                   04/03/0026,Yes,2000,No,Daily,Balanced
+Harsh,20,1000,10,Food,UPI,Yes,03-04-2026,Yes,500,No,Daily,Spend freely
+Priyank,24,7500,430,Travel,Cash,Yes,26-03-2026,No,0,Yes,Daily,Save more
+Nakul Soni,20,10000,250,Others,UPI,Yes,02-04-2026,Yes,5000,No,Daily,Balanced
+Swati,22,6000,130,Food,Cash,Yes,29-03-2026,No,0,No,Monthly,Spend freely
+Tushar,26,12000,900,Others,UPI,No,17-03-2026,Yes,3000,Yes,Rarely,Save more
+Balaji,25,18000,3500,Travel,Debit/Credit Card,Yes,01-04-2026,Yes,5000,No,Weekly,Save more
+Nandani,22,7500,250,Food,Cash,No,19-03-2026,No,0,No,Monthly,Balanced
+Vinit,24,10000,100,Bills,UPI,Yes,01-04-2026,Yes,3500,Yes,Rarely,Save more
+Riddhi,19,7000,4500,Food,Cash,Yes,17-04-2026,Yes,5000,Yes,Monthly,Save more
+Aarav,19,6000,350,Food,UPI,Yes,24-03-2026,Yes,3000,No,Weekly,Save more
+Priya,22,12000,800,Shopping,Debit/Credit Card,No,01-04-2026,Yes,5000,No,Monthly,Balanced
+Rohan,21,15000,1200,Travel,Cash,Yes,31-03-2026,Yes,7000,No,Weekly,Save more
+Sneha,20,8000,500,Food,UPI,Yes,29-03-2026,Yes,4000,No,Daily,Balanced
+Kunal,24,25000,3000,Entertainment,Debit/Credit Card,No,17-03-2026,Yes,10000,No,Rarely,Spend freely
+Meera,23,18000,950,Bills,UPI,Yes,22-03-2026,Yes,6000,No,Monthly,Save more
+Dev,20,7000,600,Travel,Cash,Yes,30-03-2026,Yes,0,No,Rarely,Save more
+Nikhil,24,28000,3500,Shopping,Debit/Credit Card,Yes,01-04-2026,Yes,6000,No,Weekly,Save more
+Ansh,20,2000,376,Food,UPI,Yes,07-03-2026,Yes,2500,Yes,Daily,Balanced
+Punya,21,6000,5000,Food,Cash,Yes,02-04-2026,Yes,6000,No,Daily,Balanced
+Aarth,20,2000,2000,Bills,Cash,Yes,01-04-2026,No,0,No,Weekly,Balanced
+Pooja,21,10000,700,Entertainment,Cash,No,22-03-2026,Yes,4500,No,Monthly,Balanced
+Devarsh Nayak,20,2500,2500,Travel,Debit/Credit Card,Yes,03-04-2026,Yes,2000,No,Daily,Spend freely
+Rahul,23,20000,1800,Travel,Cash,Yes,12-03-2026,Yes,9000,No,Weekly,Balanced
+Sameer,25,29000,3600,Travel,Cash,Yes,19-03-2026,Yes,12000,No,Monthly,Save more
+Nishant Chauhan,19,2000,2000,Food,UPI,No,16-03-2026,Yes,2000,No,Monthly,Balanced
+Vimal kumar,43,80000,20000,Bills,Debit/Credit Card,Yes,15-04-2026,No,0,Yes,Monthly,Balanced
+Dilin Nair,40,200000,60000,Bills,Debit/Credit Card,No,02-04-2026,No,0,Yes,Monthly,Balanced
+Aman  ,26,34000,4800,Others,Debit/Credit Card,Yes,23-03-2026,Yes,15000,No,Rarely,Balanced
+Kartik  ,21,11000,700,Entertainment,Cash,No,30-03-2026,Yes,4000,No,Monthly,Spend freely
+Mayank,22,16000,1300,Shopping,Cash,No,26-03-2026,Yes,6000,No,Rarely,Spend freely
+Raghav,25,31000,4300,Shopping,Debit/Credit Card,No,22-03-2026,Yes,13000,No,Rarely,Spend freely
+Pankti,20,10000,750,Food,Cash,Yes,13-03-2026,No,0,Yes,Monthly,Balanced
+Diprajsinh ,20,15000,10000,Food,Cash,Yes,01-04-2026,Yes,5000,Yes,Rarely,Balanced
+Aarav Patel,19,7000,450,Food,UPI,Yes,03-04-2026,Yes,4000,No,Daily,Save more
+Priya Sharma,21,12000,1200,Shopping,Cash,No,02-04-2026,Yes,6000,No,Weekly,Balanced
+Rohan Mehta,22,15000,700,Travel,UPI,Yes,01-04-2026,Yes,8000,No,Daily,Save more
+Sneha Joshi,20,8000,350,Entertainment,Cash,No,03-04-2026,Yes,3000,Yes,Rarely,Spend freely
+Yash Desai,24,22000,2500,Bills,Debit/Credit Card,Yes,02-04-2026,Yes,10000,No,Monthly,Save more
+Anjali Verma,18,6000,300,Food,UPI,Yes,04-04-2026,No,0,No,Weekly,Balanced
+Karan Singh,23,18000,1800,Shopping,UPI,No,01-04-2026,Yes,7000,Yes,Monthly,Spend freely
+Neha Gupta,22,14000,950,Food,Cash,Yes,02-04-2026,Yes,5000,No,Daily,Save more
+Rahul Shah,25,30000,5000,Travel,Debit/Credit Card,Yes,30-03-2026,Yes,15000,No,Weekly,Balanced
+Muskan Jain,20,9000,600,Others,UPI,No,03-04-2026,Yes,4000,Yes,Rarely,Save more
+Dev Patel,19,7500,800,Entertainment,Cash,No,01-04-2026,No,0,No,Monthly,Spend freely
+Simran Kaur,21,11000,1200,Shopping,UPI,Yes,02-04-2026,Yes,5500,No,Weekly,Save more
+Manav Bhatt,26,28000,3500,Bills,Debit/Credit Card,Yes,28-03-2026,Yes,12000,No,Daily,Balanced
+Aditi Nair,23,17000,1400,Food,UPI,Yes,03-04-2026,Yes,6000,No,Weekly,Save more
+Tushar Yadav,24,20000,2200,Travel,Cash,Yes,01-04-2026,Yes,9000,No,Monthly,Balanced
+Isha Kapoor,20,8500,500,Entertainment,UPI,No,02-04-2026,Yes,3000,Yes,Rarely,Spend freely
+Vivek Soni,22,16000,750,Food,Cash,Yes,04-04-2026,Yes,7000,No,Daily,Save more
+Pooja Mishra,19,6500,300,Others,UPI,Yes,03-04-2026,No,0,No,Weekly,Balanced
+Akash Kumar,27,32000,4200,Shopping,Debit/Credit Card,No,31-03-2026,Yes,14000,No,Monthly,Save more
+Riya Choudhary,18,5000,250,Food,UPI,Yes,04-04-2026,Yes,2000,Yes,Daily,Save more
+Nikhil Rao,21,13000,900,Travel,Cash,Yes,02-04-2026,Yes,6000,No,Weekly,Balanced
+Bhavna Shah,24,25000,2800,Shopping,UPI,No,01-04-2026,Yes,10000,No,Monthly,Spend freely
+Chirag Parmar,20,8000,450,Food,Cash,Yes,03-04-2026,Yes,3500,Yes,Daily,Save more
+Meera Iyer,22,15000,1200,Bills,UPI,Yes,01-04-2026,Yes,7000,No,Weekly,Balanced
+Dhaval Patel,23,21000,1800,Travel,Debit/Credit Card,Yes,30-03-2026,Yes,9000,No,Monthly,Save more
+Jhanvi Shah,19,7000,550,Entertainment,UPI,No,03-04-2026,Yes,2500,Yes,Rarely,Spend freely
+Sanket Joshi,25,29000,3000,Shopping,Cash,No,29-03-2026,Yes,12000,No,Monthly,Balanced
+Palak Trivedi,20,9500,600,Food,UPI,Yes,02-04-2026,Yes,4000,No,Weekly,Save more
+Arjun Menon,26,34000,5000,Bills,Debit/Credit Card,Yes,31-03-2026,Yes,15000,No,Daily,Save more
+Hetal Patel,21,10000,700,Travel,Cash,Yes,03-04-2026,No,0,No,Weekly,Balanced
+Raj Malhotra,24,18000,1500,Food,UPI,Yes,01-04-2026,Yes,8000,No,Daily,Save more
+Nisha Agarwal,23,16000,1300,Shopping,UPI,No,02-04-2026,Yes,7000,Yes,Monthly,Spend freely
+Siddharth Jain,20,9000,450,Others,Cash,Yes,03-04-2026,Yes,3500,No,Weekly,Balanced
+Komal Verma,22,14000,1000,Entertainment,UPI,No,01-04-2026,Yes,5000,Yes,Rarely,Spend freely
+Farhan Sheikh,27,30000,3500,Travel,Debit/Credit Card,Yes,30-03-2026,Yes,12000,No,Monthly,Save more
+Ruchi Sharma,19,6000,300,Food,Cash,Yes,04-04-2026,No,0,No,Daily,Balanced
+Aditya Kulkarni,25,24000,2200,Bills,UPI,Yes,02-04-2026,Yes,10000,No,Weekly,Save more
+Tanvi Deshmukh,21,11000,850,Shopping,Cash,No,03-04-2026,Yes,5000,Yes,Rarely,Spend freely
+Hardik Solanki,23,17000,950,Food,UPI,Yes,01-04-2026,Yes,6000,No,Daily,Save more
+Sakshi Bansal,20,8500,500,Entertainment,Cash,No,02-04-2026,Yes,3000,Yes,Monthly,Balanced
+Chirag Patel,22,14000,850,Food,UPI,Yes,02-04-2026,Yes,5000,No,Daily,Save more
+Meenal Shah,20,9000,450,Entertainment,Cash,No,03-04-2026,Yes,3000,Yes,Weekly,Spend freely
+Pratik Desai,24,22000,1800,Travel,Debit/Credit Card,Yes,01-04-2026,Yes,9000,No,Monthly,Balanced
+Heena Joshi,21,11000,700,Shopping,UPI,No,04-04-2026,Yes,4000,Yes,Rarely,Spend freely
+Yuvraj Singh,25,28000,3200,Bills,Debit/Credit Card,Yes,30-03-2026,Yes,12000,No,Weekly,Save more
+Rupal Mehta,19,7000,350,Food,Cash,Yes,03-04-2026,No,0,No,Daily,Balanced
+Mohit Verma,23,17000,1400,Travel,UPI,Yes,02-04-2026,Yes,7000,No,Monthly,Save more
+Tamanna Iyer,20,9500,650,Shopping,Cash,No,01-04-2026,Yes,3500,Yes,Weekly,Spend freely
+Krunal Patel,26,31000,4000,Bills,Debit/Credit Card,Yes,29-03-2026,Yes,15000,No,Daily,Save more
+Hina Khan,22,13000,950,Others,UPI,Yes,03-04-2026,Yes,5000,No,Weekly,Balanced
+Vishal Sharma,24,25000,2500,Shopping,Cash,No,31-03-2026,Yes,10000,No,Monthly,Spend freely
+Kajal Nair,18,6000,300,Food,UPI,Yes,04-04-2026,No,0,No,Daily,Save more
+Deepak Yadav,27,34000,5000,Travel,Debit/Credit Card,Yes,30-03-2026,Yes,15000,No,Monthly,Balanced
+Monika Jain,21,10000,800,Entertainment,Cash,No,02-04-2026,Yes,4000,Yes,Rarely,Spend freely
+Gaurav Shah,23,18000,1200,Food,UPI,Yes,03-04-2026,Yes,7000,No,Weekly,Save more
+Sonal Trivedi,20,8500,550,Shopping,Cash,No,01-04-2026,Yes,3000,Yes,Monthly,Balanced
+Pranav Rao,25,27000,2800,Bills,Debit/Credit Card,Yes,29-03-2026,Yes,11000,No,Daily,Save more
+Khushi Patel,19,7500,450,Food,UPI,Yes,04-04-2026,No,0,No,Weekly,Balanced
+Lokesh Kumar,24,21000,1600,Travel,Cash,Yes,02-04-2026,Yes,8000,No,Monthly,Save more
+Mansi Shah,22,12000,900,Entertainment,UPI,No,03-04-2026,Yes,5000,Yes,Rarely,Spend freely
+Bharat Solanki,26,30000,3500,Bills,Debit/Credit Card,Yes,31-03-2026,Yes,14000,No,Weekly,Balanced
+Nikita Verma,20,9500,600,Food,Cash,Yes,01-04-2026,Yes,3500,No,Daily,Save more
+Jay Mehta,23,16000,1100,Shopping,UPI,No,03-04-2026,Yes,6000,Yes,Monthly,Spend freely
+Vaishali Singh,21,10500,750,Travel,Cash,Yes,02-04-2026,Yes,4500,No,Weekly,Balanced
+Aniket Sharma,24,24000,2200,Bills,Debit/Credit Card,Yes,30-03-2026,Yes,10000,No,Daily,Save more
+Shruti Desai,19,8000,500,Entertainment,UPI,No,04-04-2026,Yes,3000,Yes,Rarely,Spend freely
+Kunal Patel,22,15000,1300,Food,Cash,Yes,01-04-2026,Yes,6000,No,Weekly,Save more
+Riddhi Shah,20,9000,700,Shopping,UPI,No,02-04-2026,Yes,4000,Yes,Monthly,Balanced
+Om Prakash,25,28000,3000,Travel,Debit/Credit Card,Yes,29-03-2026,Yes,12000,No,Daily,Save more
+Ayesha Khan,21,11500,850,Others,Cash,Yes,03-04-2026,Yes,5000,No,Weekly,Balanced
+Harsh Vyas,23,17000,1250,Food,UPI,Yes,01-04-2026,Yes,7000,No,Monthly,Save more
+Bhumi Joshi,18,6500,300,Entertainment,Cash,No,04-04-2026,No,0,No,Rarely,Spend freely
+Mayank Gupta,26,32000,4200,Bills,Debit/Credit Card,Yes,31-03-2026,Yes,15000,No,Weekly,Balanced
+Sejal Shah,20,9500,550,Food,UPI,Yes,03-04-2026,Yes,3500,No,Daily,Save more
+Darshan Patel,24,20000,1800,Travel,Cash,Yes,02-04-2026,Yes,8500,No,Monthly,Balanced
+Heena Shaikh,21,11000,950,Shopping,UPI,No,01-04-2026,Yes,5000,Yes,Rarely,Spend freely
+Ravi Kumar,25,29000,3200,Bills,Debit/Credit Card,Yes,30-03-2026,Yes,12000,No,Weekly,Save more
+Trisha Mehta,19,7000,450,Food,Cash,Yes,04-04-2026,No,0,No,Daily,Balanced
+Meet Shah,22,14500,1000,Entertainment,UPI,No,03-04-2026,Yes,4500,Yes,Monthly,Spend freely
+Reema Joshi,20,8500,600,Food,Cash,Yes,02-04-2026,Yes,3000,No,Weekly,Save more
+Aryan Deshmukh,24,23000,2400,Travel,Debit/Credit Card,Yes,31-03-2026,Yes,9500,No,Daily,Balanced
+Pinal Patel,21,12000,850,Shopping,UPI,No,01-04-2026,Yes,5000,Yes,Rarely,Spend freely
+Jeet Solanki,23,18000,1400,Food,Cash,Yes,03-04-2026,Yes,6500,No,Weekly,Save more
+Saloni Shah,19,7500,500,Entertainment,UPI,No,04-04-2026,Yes,2500,Yes,Monthly,Balanced
+Nishant Kumar,26,31000,3800,Bills,Debit/Credit Card,Yes,29-03-2026,Yes,14000,No,Daily,Save more
+Kinjal Mehta,20,9500,700,Food,Cash,Yes,02-04-2026,Yes,3500,No,Weekly,Balanced
+Uday Sharma,24,22000,1900,Travel,UPI,Yes,01-04-2026,Yes,9000,No,Monthly,Save more
+Charmi Patel,21,10000,750,Shopping,Cash,No,03-04-2026,Yes,4500,Yes,Rarely,Spend freely
+Rohan Kapoor,25,27000,2800,Bills,Debit/Credit Card,Yes,30-03-2026,Yes,11000,No,Weekly,Balanced
+Diya Shah,18,6000,350,Food,UPI,Yes,04-04-2026,No,0,No,Daily,Save more
+Parth Solanki,25,28000,3000,Bills,Debit/Credit Card,Yes,30-03-2026,Yes,12000,No,Monthly,Save more
+Devansh Thakur,22,16000,1200,Food,UPI,Yes,02-04-2026,Yes,6000,No,Weekly,Save more
+Ishita Bedi,20,9000,650,Entertainment,Cash,No,03-04-2026,Yes,3000,Yes,Rarely,Balanced
+Lakshay Arora,24,23000,2100,Travel,Debit/Credit Card,Yes,01-04-2026,Yes,9500,No,Monthly,Save more
+Garima Chawla,21,11000,850,Shopping,UPI,No,04-04-2026,Yes,4500,Yes,Weekly,Spend freely
+Samarjeet Gill,26,30000,3600,Bills,Debit/Credit Card,Yes,30-03-2026,Yes,13000,No,Daily,Balanced
+Esha Bhatia,19,7500,450,Food,Cash,Yes,03-04-2026,No,0,No,Daily,Save more
+Ronav Chatterjee,23,18000,1500,Travel,UPI,Yes,02-04-2026,Yes,7000,No,Monthly,Balanced
+Myra Dutta,20,9500,700,Shopping,Cash,No,01-04-2026,Yes,3500,Yes,Rarely,Spend freely
+Shaurya Bansode,25,27000,2800,Bills,Debit/Credit Card,Yes,31-03-2026,Yes,11000,No,Weekly,Save more
+Kiara Purohit,18,6500,350,Food,UPI,Yes,04-04-2026,No,0,No,Daily,Balanced
+Tanmay Choksi,24,21000,1700,Entertainment,Cash,No,03-04-2026,Yes,6000,Yes,Monthly,Spend freely
+Navya Borkar,21,10500,800,Food,UPI,Yes,02-04-2026,Yes,4000,No,Weekly,Save more
+Rudransh Tiwari,27,34000,4800,Travel,Debit/Credit Card,Yes,30-03-2026,Yes,15000,No,Daily,Balanced
+Avni Chhabra,20,8500,550,Shopping,Cash,No,01-04-2026,Yes,3000,Yes,Rarely,Spend freely
+Hriday Makhija,23,17000,1300,Bills,UPI,Yes,03-04-2026,Yes,7000,No,Monthly,Save more
+Zoya Contractor,19,7000,400,Food,Cash,Yes,04-04-2026,No,0,No,Daily,Balanced
+Pratham Wagh,24,22000,1900,Travel,Debit/Credit Card,Yes,02-04-2026,Yes,8500,No,Weekly,Save more
+Aarna Sethi,21,11500,900,Entertainment,UPI,No,03-04-2026,Yes,4500,Yes,Monthly,Spend freely
+Reyansh Luthra,26,31000,3900,Bills,Debit/Credit Card,Yes,31-03-2026,Yes,14000,No,Daily,Balanced
+Kavisha Grover,20,9000,650,Food,Cash,Yes,01-04-2026,Yes,3500,No,Weekly,Save more
+Yatin Sehgal,25,26000,2500,Shopping,UPI,No,02-04-2026,Yes,10000,No,Monthly,Spend freely
+Ruhi Talwar,18,6000,300,Entertainment,Cash,No,04-04-2026,No,0,No,Rarely,Balanced
+Arnav Bedi,23,19000,1450,Food,UPI,Yes,03-04-2026,Yes,6500,No,Weekly,Save more
+Taniya Chadha,22,12500,950,Travel,Cash,Yes,02-04-2026,Yes,5000,No,Monthly,Balanced
+Vivaan Kohli,27,33000,4200,Bills,Debit/Credit Card,Yes,30-03-2026,Yes,15000,No,Daily,Save more
+Rishika Ahuja,19,8000,500,Shopping,UPI,No,01-04-2026,Yes,3000,Yes,Rarely,Spend freely
+Manan Bagga,24,24000,2000,Food,Cash,Yes,03-04-2026,Yes,8500,No,Weekly,Save more
+Aashna Oberoi,20,9500,700,Entertainment,UPI,No,02-04-2026,Yes,3500,Yes,Monthly,Balanced
+Darshil Juneja,25,28000,3100,Travel,Debit/Credit Card,Yes,31-03-2026,Yes,12000,No,Daily,Save more
+Shanaya Kalra,21,11000,850,Food,Cash,Yes,01-04-2026,Yes,4000,No,Weekly,Balanced
+Harnoor Sandhu,23,18000,1400,Shopping,UPI,No,03-04-2026,Yes,7000,Yes,Monthly,Spend freely
+Mishka Anand,18,6500,350,Entertainment,Cash,No,04-04-2026,No,0,No,Rarely,Balanced
+Keshav Pahwa,24,21000,1800,Bills,Debit/Credit Card,Yes,02-04-2026,Yes,9000,No,Weekly,Save more
+Ira Sachdeva,20,8500,600,Food,UPI,Yes,03-04-2026,Yes,3500,No,Daily,Balanced
+Veer Khurana,26,32000,4000,Travel,Debit/Credit Card,Yes,30-03-2026,Yes,14000,No,Monthly,Save more
+Samaira Nagpal,21,10000,750,Shopping,Cash,No,01-04-2026,Yes,4500,Yes,Rarely,Spend freely
+Aarush Bindra,23,17500,1350,Food,UPI,Yes,02-04-2026,Yes,6500,No,Weekly,Save more
+Trisha Bawa,19,7200,450,Entertainment,Cash,No,04-04-2026,No,0,No,Daily,Balanced
+Viraj Monga,25,29000,3300,Bills,Debit/Credit Card,Yes,31-03-2026,Yes,12500,No,Monthly,Save more
+Inaya Bhardwaj,20,9200,650,Travel,UPI,Yes,03-04-2026,Yes,4000,No,Weekly,Balanced
