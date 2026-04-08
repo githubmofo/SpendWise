@@ -133,4 +133,5 @@ SpendWise/
 ## 👨‍💻 Author
 
 Developed as a major project demonstrating end-to-end data science and machine learning workflow.
+
 Jenish Lad
