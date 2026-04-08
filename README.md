@@ -104,21 +104,6 @@ KMeans clustering used to classify users into:
 
 ---
 
-## 📁 Project Structure
-
-```
-SpendWise/
-│── data/
-│   └── Track_Expenses.csv
-│── plots/
-│── model/
-│   └── model.pkl
-│── notebook/
-│   └── SpendWise.ipynb
-│── README.md
-│── requirements.txt
-```
-
 ---
 
 ## 🚀 Future Improvements
