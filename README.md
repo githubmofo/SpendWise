@@ -104,7 +104,6 @@ KMeans clustering used to classify users into:
 
 ---
 
----
 
 ## 🚀 Future Improvements
 
